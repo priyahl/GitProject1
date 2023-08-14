@@ -9,7 +9,7 @@ public class test {
 		{
 			System.out.println("eat something");
 		}
-		
+		//else block
 		else {
 			System.out.println("do work");
 		}
